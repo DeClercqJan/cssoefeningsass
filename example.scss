@@ -94,9 +94,11 @@ article {
     }
 
     .error {
-        background-color: red
+        /* background-color: red; */
+        @extend .success;
     }
 
     .warning {
-        background-color: orange
+        /* background-color: orange; */
+        @extend .success;
     }
