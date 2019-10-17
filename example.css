@@ -1,1 +1,378 @@
-body.theme-1{font:100% "Space Mono",monospace;color:#f7eb80;margin:0px;padding:0px;background-color:#497265;background-image:radial-gradient(#fff, rgba(255, 255, 255, 0.2) 2px, transparent 40px),radial-gradient(#fff, rgba(255, 255, 255, 0.15) 1px, transparent 30px),radial-gradient(#fff, rgba(255, 255, 255, 0.1) 2px, transparent 40px),radial-gradient(rgba(255, 255, 255, 0.4), rgba(255, 255, 255, 0.1) 2px, transparent 30px);background-size:550px 550px,350px 350px,250px 250px,150px 150px;background-position:0 0,40px 60px,130px 270px,70px 100px;background-attachment:fixed}.theme-1 header{text-align:center}.theme-1 article{display:flex;flex-wrap:wrap}.theme-1 article section{flex-grow:1;flex-basis:45%;border:1px #82aa91;padding:16px;margin:16px;clear:both;overflow:auto;box-sizing:border-box;-webkit-box-shadow:10ox 10px 10px 10px;-moz-box-shadow:10ox 10px 10px 10px;box-shadow:10ox 10px 10px 10px}.theme-1 article section#selling-points{flex-grow:2;flex-basis:100%}.theme-1 article code{background:#000;border:1px solid #fff;color:#bc6a49;page-break-inside:avoid;font-family:monospace;font-size:15px;line-height:1.6;margin-bottom:1.6em;max-width:100%;overflow:auto;padding:15px 22.5px;display:block;word-wrap:break-word}.theme-1 article code.before{float:left;width:40%}.theme-1 article code.after{float:right;width:40%}.theme-1 h1,.theme-1 h2,.theme-1 h6{color:#fff}.theme-1 h1{text-align:center}.theme-1 h6{text-align:center;font-size:2em;padding:32px;margin-bottom:0px}.theme-1 .message,.theme-1 .success,.theme-1 .error,.theme-1 .warning{border:1px solid #ccc;padding:10px;color:#2748b3;background-color:#000;width:100%}.theme-1 .success,.theme-1 .warning,.theme-1 .error{background-color:green}body.theme-2{font:100% "Space Mono",monospace;color:#e4ada7;margin:0px;padding:0px;background-color:#d88880;background-image:radial-gradient(#fff, rgba(255, 255, 255, 0.2) 2px, transparent 40px),radial-gradient(#fff, rgba(255, 255, 255, 0.15) 1px, transparent 30px),radial-gradient(#fff, rgba(255, 255, 255, 0.1) 2px, transparent 40px),radial-gradient(rgba(255, 255, 255, 0.4), rgba(255, 255, 255, 0.1) 2px, transparent 30px);background-size:550px 550px,350px 350px,250px 250px,150px 150px;background-position:0 0,40px 60px,130px 270px,70px 100px;background-attachment:fixed}.theme-2 header{text-align:center}.theme-2 article{display:flex;flex-wrap:wrap}.theme-2 article section{flex-grow:1;flex-basis:45%;border:1px #cc6359;padding:16px;margin:16px;clear:both;overflow:auto;box-sizing:border-box;-webkit-box-shadow:10ox 10px 10px 10px;-moz-box-shadow:10ox 10px 10px 10px;box-shadow:10ox 10px 10px 10px}.theme-2 article section#selling-points{flex-grow:2;flex-basis:100%}.theme-2 article code{background:#000;border:1px solid #fff;color:#481b16;page-break-inside:avoid;font-family:monospace;font-size:15px;line-height:1.6;margin-bottom:1.6em;max-width:100%;overflow:auto;padding:15px 22.5px;display:block;word-wrap:break-word}.theme-2 article code.before{float:left;width:40%}.theme-2 article code.after{float:right;width:40%}.theme-2 h1,.theme-2 h2,.theme-2 h6{color:orange}.theme-2 h1{text-align:center}.theme-2 h6{text-align:center;font-size:2em;padding:32px;margin-bottom:0px}.theme-2 .message,.theme-2 .success,.theme-2 .error,.theme-2 .warning{border:1px solid #ccc;padding:10px;color:#2748b3;background-color:#000;width:100%}.theme-2 .success,.theme-2 .warning,.theme-2 .error{background-color:green}body.theme-blue{font:100% "Space Mono",monospace;color:blue;margin:0px;padding:0px;background-color:#000;background-image:radial-gradient(#fff, rgba(255, 255, 255, 0.2) 2px, transparent 40px),radial-gradient(#fff, rgba(255, 255, 255, 0.15) 1px, transparent 30px),radial-gradient(#fff, rgba(255, 255, 255, 0.1) 2px, transparent 40px),radial-gradient(rgba(255, 255, 255, 0.4), rgba(255, 255, 255, 0.1) 2px, transparent 30px);background-size:550px 550px,350px 350px,250px 250px,150px 150px;background-position:0 0,40px 60px,130px 270px,70px 100px;background-attachment:fixed}.theme-blue header{text-align:center}.theme-blue article{display:flex;flex-wrap:wrap}.theme-blue article section{flex-grow:1;flex-basis:45%;border:1px silver solid;padding:16px;margin:16px;clear:both;overflow:auto;box-sizing:border-box;-webkit-box-shadow:10ox 10px 10px 10px;-moz-box-shadow:10ox 10px 10px 10px;box-shadow:10ox 10px 10px 10px}.theme-blue article section#selling-points{flex-grow:2;flex-basis:100%}.theme-blue article code{background:#000;border:1px solid #ddd;color:#666;page-break-inside:avoid;font-family:monospace;font-size:15px;line-height:1.6;margin-bottom:1.6em;max-width:100%;overflow:auto;padding:15px 22.5px;display:block;word-wrap:break-word}.theme-blue article code.before{float:left;width:40%}.theme-blue article code.after{float:right;width:40%}.theme-blue h1,.theme-blue h2,.theme-blue h6{color:#6b8eff}.theme-blue h1{text-align:center}.theme-blue h6{text-align:center;font-size:2em;padding:32px;margin-bottom:0px}.theme-blue .message,.theme-blue .success,.theme-blue .error,.theme-blue .warning{border:1px solid #ccc;padding:10px;color:#2748b3;background-color:#000;width:100%}.theme-blue .success,.theme-blue .warning,.theme-blue .error{background-color:green}body.theme-red{font:100% "Space Mono",monospace;color:red;margin:0px;padding:0px;background-color:#000;background-image:radial-gradient(#fff, rgba(255, 255, 255, 0.2) 2px, transparent 40px),radial-gradient(#fff, rgba(255, 255, 255, 0.15) 1px, transparent 30px),radial-gradient(#fff, rgba(255, 255, 255, 0.1) 2px, transparent 40px),radial-gradient(rgba(255, 255, 255, 0.4), rgba(255, 255, 255, 0.1) 2px, transparent 30px);background-size:550px 550px,350px 350px,250px 250px,150px 150px;background-position:0 0,40px 60px,130px 270px,70px 100px;background-attachment:fixed}.theme-red header{text-align:center}.theme-red article{display:flex;flex-wrap:wrap}.theme-red article section{flex-grow:1;flex-basis:45%;border:1px silver solid;padding:16px;margin:16px;clear:both;overflow:auto;box-sizing:border-box;-webkit-box-shadow:10ox 10px 10px 10px;-moz-box-shadow:10ox 10px 10px 10px;box-shadow:10ox 10px 10px 10px}.theme-red article section#selling-points{flex-grow:2;flex-basis:100%}.theme-red article code{background:#000;border:1px solid #ddd;color:#666;page-break-inside:avoid;font-family:monospace;font-size:15px;line-height:1.6;margin-bottom:1.6em;max-width:100%;overflow:auto;padding:15px 22.5px;display:block;word-wrap:break-word}.theme-red article code.before{float:left;width:40%}.theme-red article code.after{float:right;width:40%}.theme-red h1,.theme-red h2,.theme-red h6{color:#ff5e00}.theme-red h1{text-align:center}.theme-red h6{text-align:center;font-size:2em;padding:32px;margin-bottom:0px}.theme-red .message,.theme-red .success,.theme-red .error,.theme-red .warning{border:1px solid #ccc;padding:10px;color:#2748b3;background-color:#000;width:100%}.theme-red .success,.theme-red .warning,.theme-red .error{background-color:green}/*# sourceMappingURL=example.css.map */
+/* stavaza: variabele van foont-kleur veranderen lukt niet enkel met css; 'k zal Javascript meoten gebruiken denk ik */
+body.theme-1 {
+  font: 100% "Space Mono", monospace;
+  /* color: #2748B3; */
+  color: #f7eb80;
+  margin: 0px;
+  padding: 0px;
+  background-color: #497265;
+  background-image: radial-gradient(#fff, rgba(255, 255, 255, 0.2) 2px, transparent 40px), radial-gradient(#fff, rgba(255, 255, 255, 0.15) 1px, transparent 30px), radial-gradient(#fff, rgba(255, 255, 255, 0.1) 2px, transparent 40px), radial-gradient(rgba(255, 255, 255, 0.4), rgba(255, 255, 255, 0.1) 2px, transparent 30px);
+  background-size: 550px 550px, 350px 350px, 250px 250px, 150px 150px;
+  background-position: 0 0, 40px 60px, 130px 270px, 70px 100px;
+  background-attachment: fixed;
+}
+
+.theme-1 header {
+  text-align: center;
+}
+.theme-1 article {
+  display: flex;
+  flex-wrap: wrap;
+}
+.theme-1 article section {
+  flex-grow: 1;
+  flex-basis: 45%;
+  border: 1px #82aa91;
+  padding: 16px;
+  margin: 16px;
+  clear: both;
+  overflow: auto;
+  box-sizing: border-box;
+  -webkit-box-shadow: 10ox 10px 10px 10px;
+  -moz-box-shadow: 10ox 10px 10px 10px;
+  box-shadow: 10ox 10px 10px 10px;
+}
+.theme-1 article section#selling-points {
+  flex-grow: 2;
+  flex-basis: 100%;
+}
+.theme-1 article code {
+  background: #000;
+  border: 1px solid #fff;
+  color: #bc6a49;
+  page-break-inside: avoid;
+  font-family: monospace;
+  font-size: 15px;
+  line-height: 1.6;
+  margin-bottom: 1.6em;
+  max-width: 100%;
+  overflow: auto;
+  padding: 15px 22.5px;
+  display: block;
+  word-wrap: break-word;
+}
+.theme-1 article code.before {
+  float: left;
+  width: 40%;
+}
+.theme-1 article code.after {
+  float: right;
+  width: 40%;
+}
+.theme-1 h1,
+.theme-1 h2,
+.theme-1 h6 {
+  color: white;
+}
+.theme-1 h1 {
+  text-align: center;
+}
+.theme-1 h6 {
+  text-align: center;
+  font-size: 2em;
+  padding: 32px;
+  margin-bottom: 0px;
+}
+.theme-1 .message,
+.theme-1 .success,
+.theme-1 .error,
+.theme-1 .warning {
+  border: 1px solid #ccc;
+  padding: 10px;
+  color: #2748B3;
+  background-color: #000;
+  width: 100%;
+}
+.theme-1 .success, .theme-1 .warning, .theme-1 .error {
+  background-color: green;
+}
+.theme-1 .error {
+  /* background-color: red; */
+}
+.theme-1 .warning {
+  /* background-color: orange; */
+}
+
+body.theme-2 {
+  font: 100% "Space Mono", monospace;
+  /* color: #2748B3; */
+  color: #e4ada7;
+  margin: 0px;
+  padding: 0px;
+  background-color: #d88880;
+  background-image: radial-gradient(#fff, rgba(255, 255, 255, 0.2) 2px, transparent 40px), radial-gradient(#fff, rgba(255, 255, 255, 0.15) 1px, transparent 30px), radial-gradient(#fff, rgba(255, 255, 255, 0.1) 2px, transparent 40px), radial-gradient(rgba(255, 255, 255, 0.4), rgba(255, 255, 255, 0.1) 2px, transparent 30px);
+  background-size: 550px 550px, 350px 350px, 250px 250px, 150px 150px;
+  background-position: 0 0, 40px 60px, 130px 270px, 70px 100px;
+  background-attachment: fixed;
+}
+
+.theme-2 header {
+  text-align: center;
+}
+.theme-2 article {
+  display: flex;
+  flex-wrap: wrap;
+}
+.theme-2 article section {
+  flex-grow: 1;
+  flex-basis: 45%;
+  border: 1px #cc6359;
+  padding: 16px;
+  margin: 16px;
+  clear: both;
+  overflow: auto;
+  box-sizing: border-box;
+  -webkit-box-shadow: 10ox 10px 10px 10px;
+  -moz-box-shadow: 10ox 10px 10px 10px;
+  box-shadow: 10ox 10px 10px 10px;
+}
+.theme-2 article section#selling-points {
+  flex-grow: 2;
+  flex-basis: 100%;
+}
+.theme-2 article code {
+  background: #000;
+  border: 1px solid #fff;
+  color: #481b16;
+  page-break-inside: avoid;
+  font-family: monospace;
+  font-size: 15px;
+  line-height: 1.6;
+  margin-bottom: 1.6em;
+  max-width: 100%;
+  overflow: auto;
+  padding: 15px 22.5px;
+  display: block;
+  word-wrap: break-word;
+}
+.theme-2 article code.before {
+  float: left;
+  width: 40%;
+}
+.theme-2 article code.after {
+  float: right;
+  width: 40%;
+}
+.theme-2 h1,
+.theme-2 h2,
+.theme-2 h6 {
+  color: orange;
+}
+.theme-2 h1 {
+  text-align: center;
+}
+.theme-2 h6 {
+  text-align: center;
+  font-size: 2em;
+  padding: 32px;
+  margin-bottom: 0px;
+}
+.theme-2 .message,
+.theme-2 .success,
+.theme-2 .error,
+.theme-2 .warning {
+  border: 1px solid #ccc;
+  padding: 10px;
+  color: #2748B3;
+  background-color: #000;
+  width: 100%;
+}
+.theme-2 .success, .theme-2 .warning, .theme-2 .error {
+  background-color: green;
+}
+.theme-2 .error {
+  /* background-color: red; */
+}
+.theme-2 .warning {
+  /* background-color: orange; */
+}
+
+body.theme-blue {
+  font: 100% "Space Mono", monospace;
+  /* color: #2748B3; */
+  color: blue;
+  margin: 0px;
+  padding: 0px;
+  background-color: #000;
+  background-image: radial-gradient(#fff, rgba(255, 255, 255, 0.2) 2px, transparent 40px), radial-gradient(#fff, rgba(255, 255, 255, 0.15) 1px, transparent 30px), radial-gradient(#fff, rgba(255, 255, 255, 0.1) 2px, transparent 40px), radial-gradient(rgba(255, 255, 255, 0.4), rgba(255, 255, 255, 0.1) 2px, transparent 30px);
+  background-size: 550px 550px, 350px 350px, 250px 250px, 150px 150px;
+  background-position: 0 0, 40px 60px, 130px 270px, 70px 100px;
+  background-attachment: fixed;
+}
+
+.theme-blue header {
+  text-align: center;
+}
+.theme-blue article {
+  display: flex;
+  flex-wrap: wrap;
+}
+.theme-blue article section {
+  flex-grow: 1;
+  flex-basis: 45%;
+  border: 1px silver solid;
+  padding: 16px;
+  margin: 16px;
+  clear: both;
+  overflow: auto;
+  box-sizing: border-box;
+  -webkit-box-shadow: 10ox 10px 10px 10px;
+  -moz-box-shadow: 10ox 10px 10px 10px;
+  box-shadow: 10ox 10px 10px 10px;
+}
+.theme-blue article section#selling-points {
+  flex-grow: 2;
+  flex-basis: 100%;
+}
+.theme-blue article code {
+  background: #000;
+  border: 1px solid #ddd;
+  color: #666;
+  page-break-inside: avoid;
+  font-family: monospace;
+  font-size: 15px;
+  line-height: 1.6;
+  margin-bottom: 1.6em;
+  max-width: 100%;
+  overflow: auto;
+  padding: 15px 22.5px;
+  display: block;
+  word-wrap: break-word;
+}
+.theme-blue article code.before {
+  float: left;
+  width: 40%;
+}
+.theme-blue article code.after {
+  float: right;
+  width: 40%;
+}
+.theme-blue h1,
+.theme-blue h2,
+.theme-blue h6 {
+  color: #6B8EFF;
+}
+.theme-blue h1 {
+  text-align: center;
+}
+.theme-blue h6 {
+  text-align: center;
+  font-size: 2em;
+  padding: 32px;
+  margin-bottom: 0px;
+}
+.theme-blue .message,
+.theme-blue .success,
+.theme-blue .error,
+.theme-blue .warning {
+  border: 1px solid #ccc;
+  padding: 10px;
+  color: #2748B3;
+  background-color: #000;
+  width: 100%;
+}
+.theme-blue .success, .theme-blue .warning, .theme-blue .error {
+  background-color: green;
+}
+.theme-blue .error {
+  /* background-color: red; */
+}
+.theme-blue .warning {
+  /* background-color: orange; */
+}
+
+body.theme-red {
+  font: 100% "Space Mono", monospace;
+  /* color: #2748B3; */
+  color: red;
+  margin: 0px;
+  padding: 0px;
+  background-color: #000;
+  background-image: radial-gradient(#fff, rgba(255, 255, 255, 0.2) 2px, transparent 40px), radial-gradient(#fff, rgba(255, 255, 255, 0.15) 1px, transparent 30px), radial-gradient(#fff, rgba(255, 255, 255, 0.1) 2px, transparent 40px), radial-gradient(rgba(255, 255, 255, 0.4), rgba(255, 255, 255, 0.1) 2px, transparent 30px);
+  background-size: 550px 550px, 350px 350px, 250px 250px, 150px 150px;
+  background-position: 0 0, 40px 60px, 130px 270px, 70px 100px;
+  background-attachment: fixed;
+}
+
+.theme-red header {
+  text-align: center;
+}
+.theme-red article {
+  display: flex;
+  flex-wrap: wrap;
+}
+.theme-red article section {
+  flex-grow: 1;
+  flex-basis: 45%;
+  border: 1px silver solid;
+  padding: 16px;
+  margin: 16px;
+  clear: both;
+  overflow: auto;
+  box-sizing: border-box;
+  -webkit-box-shadow: 10ox 10px 10px 10px;
+  -moz-box-shadow: 10ox 10px 10px 10px;
+  box-shadow: 10ox 10px 10px 10px;
+}
+.theme-red article section#selling-points {
+  flex-grow: 2;
+  flex-basis: 100%;
+}
+.theme-red article code {
+  background: #000;
+  border: 1px solid #ddd;
+  color: #666;
+  page-break-inside: avoid;
+  font-family: monospace;
+  font-size: 15px;
+  line-height: 1.6;
+  margin-bottom: 1.6em;
+  max-width: 100%;
+  overflow: auto;
+  padding: 15px 22.5px;
+  display: block;
+  word-wrap: break-word;
+}
+.theme-red article code.before {
+  float: left;
+  width: 40%;
+}
+.theme-red article code.after {
+  float: right;
+  width: 40%;
+}
+.theme-red h1,
+.theme-red h2,
+.theme-red h6 {
+  color: #ff5e00;
+}
+.theme-red h1 {
+  text-align: center;
+}
+.theme-red h6 {
+  text-align: center;
+  font-size: 2em;
+  padding: 32px;
+  margin-bottom: 0px;
+}
+.theme-red .message,
+.theme-red .success,
+.theme-red .error,
+.theme-red .warning {
+  border: 1px solid #ccc;
+  padding: 10px;
+  color: #2748B3;
+  background-color: #000;
+  width: 100%;
+}
+.theme-red .success, .theme-red .warning, .theme-red .error {
+  background-color: green;
+}
+.theme-red .error {
+  /* background-color: red; */
+}
+.theme-red .warning {
+  /* background-color: orange; */
+}
+
+/*# sourceMappingURL=example.css.map */
