@@ -1,10 +1,5 @@
 /* stavaza: variabele van foont-kleur veranderen lukt niet enkel met css; 'k zal Javascript meoten gebruiken denk ik */
 
-/* @mixin boxshadowmixinpadding($padding_variables) {
-    -webkit-box-shadow: $padding_variables;
-    -moz-box-shadow: $padding_variables;
-    box-shadow: $padding_variables;
-} */
 
 @mixin themable($theme-name, $body_color, $body_background_color, $article_section_border_color, $article_code_border, $article_code_color, $header_color, $bottom_messages_color) {
 
@@ -23,7 +18,9 @@
         background-attachment: fixed
     }
     .#{$theme-name} {
-
+        header {
+            text-align: center;
+        }
         article {
             display: flex;
             flex-wrap: wrap;
@@ -37,11 +34,7 @@
                 clear: both;
                 overflow: auto;
                 box-sizing: border-box;
-                /* @include boxshadowmixinpadding(10px 10px 10px 10px); HIERONDER TERUGGEZET OM DE BOEL TE DOEN WERKEN VOOR THEME-MIXIN*/
-                -webkit-box-shadow: 10px 10px 10px 10px;
-                -moz-box-shadow: 10px 10px 10px 10px;
-                box-shadow: 10px 10px 10px 10pxs;
-
+                @include boxshadowmixinpadding(10px 10px 10px 10px);
                 &#selling-points {
                     flex-grow: 2;
                     flex-basis: 100%;
@@ -120,7 +113,15 @@
     }
 }
 
+    
+@mixin boxshadowmixinpadding($padding_variables) {
+    -webkit-box-shadow: $padding_variables;
+    -moz-box-shadow: $padding_variables;
+    box-shadow: $padding_variables;
+} 
+
 @include themable(theme-1, #f7eb80, #497265, #82aa91, #fff, #bc6a49, white, green);
 @include themable(theme-2, #e4ada7, #d88880, #cc6359, #fff, #481b16, orange, green);
 @include themable(theme-blue, blue, #000, silver solid, #ddd, #666, #6B8EFF, green);
 @include themable(theme-red, red, #000, silver solid, #ddd, #666, rgb(255, 94, 0), green);
+
