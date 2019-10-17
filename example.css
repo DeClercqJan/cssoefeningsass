@@ -28,9 +28,9 @@ body.theme-1 {
   clear: both;
   overflow: auto;
   box-sizing: border-box;
-  -webkit-box-shadow: 10px 10px 10px 10px;
-  -moz-box-shadow: 10px 10px 10px 10px;
-  box-shadow: 10px 10px 10px 10px;
+  -webkit-box-shadow: 10ox 10px 10px 10px;
+  -moz-box-shadow: 10ox 10px 10px 10px;
+  box-shadow: 10ox 10px 10px 10px;
 }
 .theme-1 article section#selling-points {
   flex-grow: 2;
@@ -122,9 +122,9 @@ body.theme-2 {
   clear: both;
   overflow: auto;
   box-sizing: border-box;
-  -webkit-box-shadow: 10px 10px 10px 10px;
-  -moz-box-shadow: 10px 10px 10px 10px;
-  box-shadow: 10px 10px 10px 10px;
+  -webkit-box-shadow: 10ox 10px 10px 10px;
+  -moz-box-shadow: 10ox 10px 10px 10px;
+  box-shadow: 10ox 10px 10px 10px;
 }
 .theme-2 article section#selling-points {
   flex-grow: 2;
@@ -216,9 +216,9 @@ body.theme-blue {
   clear: both;
   overflow: auto;
   box-sizing: border-box;
-  -webkit-box-shadow: 10px 10px 10px 10px;
-  -moz-box-shadow: 10px 10px 10px 10px;
-  box-shadow: 10px 10px 10px 10px;
+  -webkit-box-shadow: 10ox 10px 10px 10px;
+  -moz-box-shadow: 10ox 10px 10px 10px;
+  box-shadow: 10ox 10px 10px 10px;
 }
 .theme-blue article section#selling-points {
   flex-grow: 2;
@@ -310,9 +310,9 @@ body.theme-red {
   clear: both;
   overflow: auto;
   box-sizing: border-box;
-  -webkit-box-shadow: 10px 10px 10px 10px;
-  -moz-box-shadow: 10px 10px 10px 10px;
-  box-shadow: 10px 10px 10px 10px;
+  -webkit-box-shadow: 10ox 10px 10px 10px;
+  -moz-box-shadow: 10ox 10px 10px 10px;
+  box-shadow: 10ox 10px 10px 10px;
 }
 .theme-red article section#selling-points {
   flex-grow: 2;
