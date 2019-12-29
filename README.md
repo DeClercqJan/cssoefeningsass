@@ -1,6 +1,7 @@
 # cssoefeningsass
 
 ## basic idea
+- click the button and change the color scheme of the page
 - SASS exercise
 - Becode html/css exercise
 
