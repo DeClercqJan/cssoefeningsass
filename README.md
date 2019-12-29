@@ -1,10 +1,11 @@
 # cssoefeningsass
 
 ## basic idea
-
+- SASS exercise
 - Becode html/css exercise
 
 ## implementation
+- used JS to create buttons that change color template of page
 
 ## to do's
 
